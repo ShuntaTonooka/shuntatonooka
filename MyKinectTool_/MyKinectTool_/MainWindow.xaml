@@ -1,0 +1,24 @@
+﻿<Window x:Class="MyKinectTool_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="735" Width="770" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="構え姿勢" Height="28" HorizontalAlignment="Left" Margin="338,20,0,0" Name="label1" VerticalAlignment="Top" Visibility="Hidden" />
+        <Label Content="姿勢1" Height="28" HorizontalAlignment="Left" Margin="355,54,0,0" Name="label2" VerticalAlignment="Top" Visibility="Hidden" />
+        <Label Content="姿勢2" Height="28" HorizontalAlignment="Left" Margin="355,88,0,0" Name="label3" VerticalAlignment="Top" Visibility="Hidden" />
+        <Label Content="構え時間" Height="28" HorizontalAlignment="Left" Margin="338,117,0,0" Name="label4" VerticalAlignment="Top" Visibility="Hidden" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="406,20,0,0" Name="label5" VerticalAlignment="Top" Visibility="Hidden" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="406,54,0,0" Name="label6" VerticalAlignment="Top" Visibility="Hidden" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="406,88,0,0" Name="label7" VerticalAlignment="Top" Visibility="Hidden" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="406,117,0,0" Name="label8" VerticalAlignment="Top" Visibility="Hidden" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="465,20,0,0" Name="slider1" VerticalAlignment="Top" Width="100" Value="75" Maximum="100" Visibility="Hidden" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="465,54,0,0" Name="slider2" VerticalAlignment="Top" Width="100" Maximum="100" Value="75" Visibility="Hidden" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="465,88,0,0" Name="slider3" VerticalAlignment="Top" Width="100" Maximum="100" Value="75" Visibility="Hidden" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="465,117,0,0" Name="slider4" VerticalAlignment="Top" Width="100" Maximum="200" Value="100" Visibility="Hidden" />
+        <Button Content="姿勢を保存" Height="23" HorizontalAlignment="Left" Margin="571,20,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" Visibility="Hidden" />
+        <Button Content="姿勢を保存" Height="23" HorizontalAlignment="Left" Margin="571,54,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" Visibility="Hidden" />
+        <Button Content="姿勢を保存" Height="23" HorizontalAlignment="Left" Margin="571,90,0,0" Name="button3" VerticalAlignment="Top" Width="75" Click="button3_Click" Visibility="Hidden" />
+        <Label Height="89" HorizontalAlignment="Left" Margin="90,32,0,0" Name="label9" VerticalAlignment="Top" FontSize="14" Width="545"/>
+        <Image Height="480" HorizontalAlignment="Left" Margin="52,127,0,0" Name="Image" Stretch="Fill" VerticalAlignment="Top" Width="640" />
+    </Grid>
+</Window>
