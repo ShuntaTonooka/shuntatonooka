@@ -1,0 +1,13 @@
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\bin\Debug\KinectCameraSample.exe
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\bin\Debug\KinectCameraSample.pdb
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\MainWindow.baml
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\App.g.cs
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample_MarkupCompile.cache
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.g.resources
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.Properties.Resources.resources
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.exe
+C:\Users\大学用アカウント\Desktop\講義・演習\3年\情報メディア演習Ⅱ\新しいフォルダー\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.pdb
